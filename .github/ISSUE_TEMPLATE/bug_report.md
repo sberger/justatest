@@ -1,9 +1,10 @@
 ---
-name: Bug report
+name: :bug: Bug report
 about: Create a report to help us improve
 title: ''
 labels: ''
 assignees: ''
+projects:  '/2'
 
 ---
 
